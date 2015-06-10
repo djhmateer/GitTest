@@ -8,3 +8,4 @@ diffs
 some stuff here, at the same time as I was working on feature2
 changes when on feature3 branch
 changes to readme on master branch
+changes to readme on master (at the same time as feature4)
