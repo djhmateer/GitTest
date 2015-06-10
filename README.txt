@@ -5,3 +5,4 @@ simple init
 adding
 modifying
 diffs
+some stuff here, at the same time as I was working on feature2
